@@ -1,7 +1,9 @@
-![Banner](githubbanner.jpg)
+![Banner](banner.png)
 
 # Welcome to my GitHub
 
-I'm a professional Data Analyst and a hobbyist programmer. Not much to see here but feel free to poke around...
+Professional data guy and hobbyist programmer with a love for all things retro internet (late 90s, early 2000s)
+
+## Repo Stats
 
 ![Distribution](https://github.com/sorzkode/repostats/blob/main/langchart.png)
